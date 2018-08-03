@@ -1,6 +1,6 @@
 FROM openjdk:8
 
-MAINTAINER Marcel Haldimann 
+MAINTAINER ionesoft GmbH
 
 ENV DEBIAN_FRONTEND noninteractive
 
